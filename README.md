@@ -1,5 +1,6 @@
 # Modular Line Follower & Path Finder Robot
 
+![Line Follower & Path Finder Robot](line_follower_x_path_finder.jpeg)
 A modular autonomous competition robot developed from scratch using an ESP32.
 The robot is designed to participate in both line-following and path-finding
 competitions by changing the sensing module and selecting the corresponding
